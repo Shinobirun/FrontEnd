@@ -1,0 +1,22 @@
+.principal {
+    color: #FFF;
+    font-size: 60px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Great Vibes', cursive;
+    padding: 1.2%;
+    padding-top: 4%;
+}
+
+.link {
+    color: #fff;
+}
+
+.link:hover {
+    color: #aaa;
+    text-decoration: none;
+}
+
+.gal:hover {
+    transform: rotateY(360deg);
+    transition: 2s;
+}
