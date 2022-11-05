@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { FotoComponent } from './components/foto/foto.component';
 import { IconosSocialesComponent } from './components/iconos-sociales/iconos-sociales.component';
 import { DropdownComponent } from './components/dropdown/dropdown.component';
+import { BannerComponent } from './components/banner/banner.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { DropdownComponent } from './components/dropdown/dropdown.component';
     HeaderComponent,
     FotoComponent,
     IconosSocialesComponent,
-    DropdownComponent
+    DropdownComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,
